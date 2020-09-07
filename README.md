@@ -10,8 +10,11 @@ Execute-
 Run App.java as java application
 
 Sample search API request-
+
 Type: POST
+
 URL: http://localhost:8080/search
+
 Body: 
 {
   "index": "test",      # ES index
